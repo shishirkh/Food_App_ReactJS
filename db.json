@@ -1,11 +1,16 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "userId": 1,
+    "id": 1,
+    "title": "Dal Makhani",
+    "body": "Our speciality"
+    },
+    {
+    "userId": 1,
+    "id": 2,
+    "title": "Butter Chicken",
+    "body": "Spicy and everyone's favourite"
+    },
+  ]
 }
