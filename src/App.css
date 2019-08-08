@@ -1,0 +1,42 @@
+.App{
+    text-align:center;
+}
+.sideBySide{
+    display:flex; 
+    flex-direction:row;
+    padding-left: 20%;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+.bold{
+    font-weight: bold;
+    margin-left: 400px;
+}
+.pText{
+    font-family: 'Raleway', sans-serif;
+}
+.Button{
+    background-color:green;
+    color:white;
+    font:inherit;
+    border:1px solid;
+    padding:8px;
+    margin-top: 10px;
+    margin-left: 475px;
+    cursor:pointer;
+}
+.Button:hover{
+    background-color:lightgreen;
+    color:black;
+}
+.Button.Red{
+    background-color:red;
+}
+.Button.Red:hover{
+    background-color:salmon;
+    color:black;
+}
