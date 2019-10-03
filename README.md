@@ -1,4 +1,5 @@
 ## Food App ReactJS
+I have tried to learn ReactJs by applying some basic features and basic designing.
 I decided to try web development in the last 2 weeks as I have always been curious about it!
 Do suggest some features for the project. I plan on hosting it soon as well. Until then, you can see the images that I have added.
 
