@@ -1,4 +1,4 @@
-#Food App ReactJS
+## Food App ReactJS
 
 Though I have worked on my Algorithms&DataStructures for the majority of my college life. 
 I decided to try web development in the last 2 weeks as I have always been curious about it!
