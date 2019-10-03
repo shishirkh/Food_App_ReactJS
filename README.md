@@ -8,9 +8,8 @@ I really enjoyed and learned a lot while creating this project.
 
 Special thanks to all the tutors on the internet who help us learn new skills and become better! 
 
-Do suggest some features for the project! Here's the link to my website project: 
-https://react-my-burger-8f283.firebaseapp.com/
+Do suggest some features for the project.
+I plan on hosting it soon as well.
 
-Edit: The site is down, for now, I will update it soon.
 Until then, you can see the images that I have added.
 
